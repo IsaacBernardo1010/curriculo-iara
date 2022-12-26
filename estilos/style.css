@@ -24,6 +24,18 @@ nav > ul > li {
     list-style: none;
 }
 
+div > img {
+    display: inline-block;
+    width: 30px;
+    border-radius: 50%;
+    box-sizing: border-box;    
+}
+
+div > p {
+    display: inline-block;
+    
+}
+
 main > section > h1 {
     padding-top: 30px;
 }
