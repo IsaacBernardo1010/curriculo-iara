@@ -14,3 +14,28 @@ header > p {
     padding-top: 5px;
     text-align: center;
 }
+
+nav > ul {
+    padding-top: 30px;
+}
+
+nav > ul > li {    
+    margin-left: 60px;
+    list-style: none;
+}
+
+main > section > h1 {
+    padding-top: 30px;
+}
+
+main > section > h3 {
+    padding-top: 15px;
+}
+
+main > section > h1, h3, li {
+    margin-left: 20px;
+}
+
+main > section > ul > li {
+    margin-left: 60px;
+}
